@@ -11,6 +11,25 @@ namespace Hello_World
         private int Length;
         private int Width;
 
+        public Rectangle()
+        {
+            Length = 1;
+            Width = 1;
+        }
+
+        public Rectangle(int length, int width)
+            {
+                Length = length;
+                Width = width;
+            }
+
+        public Rectangle(int length)
+        {
+            Length = length;
+            Width = 1;
+        }
+
+
         public int getLength() { return Length; }
         public int getWidth() { return Width; }
 
@@ -18,6 +37,6 @@ namespace Hello_World
         public void setWidth(int width) { Width = width; }
 
         public int CalculateArea() { return Length * Width; }
-        public int CalculatePermiter() { return 2 * (Length + Width); }
+        public int CalculatePerimeter() { return 2 * (Length + Width); }
     }
 }

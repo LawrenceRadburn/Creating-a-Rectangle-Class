@@ -28,7 +28,7 @@ A floating-point type variable.
 #### int
 An integer type variable.
 
-## Exercises
+## Creating Classes
 
 ### Create Classes
 Using the Solution Explorer, I created a class called Rectangle.
@@ -53,4 +53,14 @@ With the values set in the attributes, I used my calculation attributes.
 
 ### Print to Console
 Lastly, I used the Console.WriteLine method to output the data to the standard output system.
-This helped ensure that my calculations and code was working as intended.
+
+### Running Programs
+By running the program with the Console.WriteLine command, I could ensure that my calculations and code was working as intended.
+
+
+## Creating a Constructor
+In order to save time, we can create a special method to set up the attributes of and values for the class. Doing so will save time
+because we don't have to set the attributes and values in separate steps.
+
+In my case, I created several constructors depending on what values are passed in.
+This allowed me to pass in the values directly into the parameter and avoid using the setWidth and setLength methods.

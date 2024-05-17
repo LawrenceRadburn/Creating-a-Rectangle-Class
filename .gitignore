@@ -13,7 +13,6 @@ Creating a Rectangle Class/.vs/Creating a Rectangle Class/v17/DocumentLayout.jso
 Creating a Rectangle Class/.vs/ProjectEvaluation/creating a rectangle class.metadata.v7.bin
 Creating a Rectangle Class/.vs/ProjectEvaluation/creating a rectangle class.projects.v7.bin
 Creating a Rectangle Class/Creating a Rectangle Class.sln
-Creating a Rectangle Class/Creating a Rectangle Class/Creating a Rectangle Class.csproj
 Creating a Rectangle Class/Creating a Rectangle Class/obj/Creating a Rectangle Class.csproj.nuget.dgspec.json
 Creating a Rectangle Class/Creating a Rectangle Class/obj/Creating a Rectangle Class.csproj.nuget.g.props
 Creating a Rectangle Class/Creating a Rectangle Class/obj/Creating a Rectangle Class.csproj.nuget.g.targets
@@ -31,3 +30,40 @@ Creating a Rectangle Class/Creating a Rectangle Class/obj/Release/net8.0/Creatin
 Creating a Rectangle Class/Creating a Rectangle Class/obj/Release/net8.0/Creating a Rectangle Class.assets.cache
 Creating a Rectangle Class/Creating a Rectangle Class/obj/Release/net8.0/Creating a Rectangle Class.GeneratedMSBuildEditorConfig.editorconfig
 Creating a Rectangle Class/Creating a Rectangle Class/obj/Release/net8.0/Creating a Rectangle Class.GlobalUsings.g.cs
+Creating a Rectangle Class/.vs/Creating a Rectangle Class/FileContentIndex/8aad617f-4678-45e1-8543-960728684737.vsidx
+Creating a Rectangle Class/.vs/Creating a Rectangle Class/FileContentIndex/c3541d7b-cd10-4fb8-b784-dd0346c0015c.vsidx
+Creating a Rectangle Class/.vs/Creating a Rectangle Class/FileContentIndex/e36b5fd7-a479-430d-aed1-2aa8c4def1c9.vsidx
+.vs/Creating a Rectangle Class/DesignTimeBuild/.dtbcache.v2
+.vs/Creating a Rectangle Class/FileContentIndex/52e72c6c-a382-49ae-90b7-65bf07dcd0df.vsidx
+.vs/Creating a Rectangle Class/FileContentIndex/5585dd26-4c8f-4018-b00d-c92e9f640ff9.vsidx
+.vs/Creating a Rectangle Class/FileContentIndex/5980cf61-cde0-48a2-816f-23984bcd02f9.vsidx
+.vs/Creating a Rectangle Class/FileContentIndex/8aad617f-4678-45e1-8543-960728684737.vsidx
+.vs/Creating a Rectangle Class/FileContentIndex/e36b5fd7-a479-430d-aed1-2aa8c4def1c9.vsidx
+.vs/Creating a Rectangle Class/v17/.futdcache.v2
+.vs/Creating a Rectangle Class/v17/.suo
+.vs/ProjectEvaluation/creating a rectangle class.metadata.v7.bin
+.vs/ProjectEvaluation/creating a rectangle class.projects.v7.bin
+*.json
+*.props
+*.cache
+obj/Debug/net8.0/Creating a Rectangle Class.csproj.FileListAbsolute.txt
+*.editorconfig
+Creating a Rectangle Class.csproj
+Creating a Rectangle Class.sln
+*.vsidx
+*.targets
+obj/Debug/net8.0/apphost.exe
+obj/Debug/net8.0/Creating a Rectangle Class.csproj.BuildWithSkipAnalyzers
+obj/Debug/net8.0/Creating a Rectangle Class.dll
+obj/Debug/net8.0/Creating a Rectangle Class.pdb
+obj/Debug/net8.0/ref/Creating a Rectangle Class.dll
+obj/Debug/net8.0/refint/Creating a Rectangle Class.dll
+*.pdb
+*.exe
+*.dll
+obj/Release/net8.0/Creating a Rectangle Class.GlobalUsings.g.cs
+obj/Release/net8.0/Creating a Rectangle Class.AssemblyInfo.cs
+obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+obj/Debug/net8.0/Creating a Rectangle Class.GlobalUsings.g.cs
+obj/Debug/net8.0/Creating a Rectangle Class.AssemblyInfo.cs
+obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
